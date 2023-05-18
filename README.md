@@ -44,12 +44,13 @@ Os
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jarekzielinski&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekzielinski&layout=compact&theme=blue-green)
+  
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
 
   
 <!--
