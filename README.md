@@ -44,7 +44,7 @@ Os
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarekzielinski)
 <!--
 **jarekzielinski/jarekzielinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
