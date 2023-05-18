@@ -2,11 +2,12 @@
 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jarosław-zieliński86)
 
-I am a software test engineer with a passion for programming, in particular mobile devices. Currently, I am open to interesting projects and new challenges.
-
-  
 Glad to see you here!<Br>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjarekzielinski"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjarekzielinski&countColor=%23263759" /></a>
+<Br><Br>
+  I am a software test engineer with a passion for programming, in particular mobile devices. If you like my profile send me a message. Currently I am open for collaborations, interesting projects and new challenges.
+
+  
 
 ## My skills
     
