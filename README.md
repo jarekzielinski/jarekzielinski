@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jarosław Zieliński 👋
+
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jarosław-zieliński86)
 
 I am a software test engineer with a passion for programming, in particular mobile devices. Currently, I am open to interesting projects and new challenges.
 
-__See my profile__
   
-  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jarosław-zieliński86)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=(https://github.com/jarekzielinski))
+Glad to see you here!<Br>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjarekzielinski"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjarekzielinski&countColor=%23263759" /></a>
 
 ## My skills
     
@@ -48,7 +48,7 @@ Os
 
   <!--START_SECTION:main-->
   
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarekzielinski)
+<!--   ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarekzielinski) -->
   
 <!--END_SECTION:main-->
 
