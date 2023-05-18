@@ -6,6 +6,8 @@ __See my profile__
   
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jarosław-zieliński86)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=(https://github.com/jarekzielinski))
+
 ## My skills
     
 Software testing<Br>
