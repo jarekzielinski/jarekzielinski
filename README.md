@@ -47,7 +47,7 @@ Os
   
   <!--START_SECTION:waka-->
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarekzielinski)
+
   
   <!--END_SECTION:waka-->
 <!--
