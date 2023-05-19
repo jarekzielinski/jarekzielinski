@@ -10,8 +10,8 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     permissions:
-      actions: read
       contents: read
+      pull-requests: write
       security-events: write
     runs-on: ubuntu-latest
     steps:
