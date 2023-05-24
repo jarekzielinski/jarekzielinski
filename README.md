@@ -47,7 +47,14 @@ Os
   
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Java       10 mins         ████████████████████▒░░░░   81.09 %
+Markdown   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```
+
+<!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
