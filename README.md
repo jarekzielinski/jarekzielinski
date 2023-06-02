@@ -48,7 +48,7 @@ Os
   
   <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 16 May 2023 - To: 01 June 2023
 
 Total Time: 3 hrs 3 mins
