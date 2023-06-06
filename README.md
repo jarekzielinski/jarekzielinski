@@ -49,15 +49,15 @@ Os
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2023 - To: 05 June 2023
+From: 16 May 2023 - To: 06 June 2023
 
-Total Time: 3 hrs 3 mins
+Total Time: 5 hrs 16 mins
 
-Dart         2 hrs 10 mins   >>>>>>>>>>>>>>>>>>-------   71.34 %
-YAML         19 mins         >>>----------------------   10.90 %
-Markdown     14 mins         >>-----------------------   07.68 %
-Java         10 mins         >------------------------   05.73 %
-Git Config   7 mins          >------------------------   04.36 %
+Java         2 hrs 23 mins   >>>>>>>>>>>--------------   45.45 %
+Dart         2 hrs 10 mins   >>>>>>>>>>---------------   41.28 %
+YAML         19 mins         >>-----------------------   06.30 %
+Markdown     14 mins         >------------------------   04.44 %
+Git Config   7 mins          >------------------------   02.52 %
 ```
 
 <!--END_SECTION:waka-->
