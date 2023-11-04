@@ -49,7 +49,7 @@ Os
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2023 - To: 02 November 2023
+From: 16 May 2023 - To: 03 November 2023
 
 Total Time: 42 hrs 37 mins
 
