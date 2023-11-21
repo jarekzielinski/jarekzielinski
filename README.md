@@ -67,7 +67,7 @@ Properties       10 mins         -------------------------   00.31 %
 
 <!--END_SECTION:waka-->
 
-![Snake animation](https://raw.githubusercontent.com/jarekzielinski/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jarekzielinskijarekzielinsk/output/github-contribution-grid-snake-dark.svg)
             
 
 
