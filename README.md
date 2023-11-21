@@ -67,8 +67,13 @@ Properties       10 mins         -------------------------   00.31 %
 
 <!--END_SECTION:waka-->
 
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.0.0
+ - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN3 }}
             
 
 
