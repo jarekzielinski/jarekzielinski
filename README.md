@@ -67,7 +67,9 @@ Properties       10 mins         -------------------------   00.31 %
 
 <!--END_SECTION:waka-->
 
-
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
 
 
   
