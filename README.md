@@ -49,16 +49,16 @@ Os
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2023 - To: 11 August 2025
+From: 16 May 2023 - To: 12 August 2025
 
-Total Time: 495 hrs 18 mins
+Total Time: 497 hrs 21 mins
 
-Dart              416 hrs 43 mins >>>>>>>>>>>>>>>>>>>>>----   84.13 %
-Java              28 hrs          >------------------------   05.66 %
-Python            23 hrs 8 mins   >------------------------   04.67 %
+Dart              418 hrs 43 mins >>>>>>>>>>>>>>>>>>>>>----   84.19 %
+Java              28 hrs          >------------------------   05.63 %
+Python            23 hrs 8 mins   >------------------------   04.65 %
 JSON              7 hrs 56 mins   -------------------------   01.60 %
 JavaScript        5 hrs 45 mins   -------------------------   01.16 %
-YAML              4 hrs 58 mins   -------------------------   01.00 %
+YAML              5 hrs           -------------------------   01.01 %
 XML               3 hrs 16 mins   -------------------------   00.66 %
 Groovy            2 hrs 41 mins   -------------------------   00.54 %
 GitIgnore file    47 mins         -------------------------   00.16 %
