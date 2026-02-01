@@ -49,12 +49,12 @@ Os
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2023 - To: 30 January 2026
+From: 16 May 2023 - To: 31 January 2026
 
-Total Time: 546 hrs 44 mins
+Total Time: 547 hrs 37 mins
 
-Dart                467 hrs 39 mins >>>>>>>>>>>>>>>>>>>>>----   85.53 %
-Java                28 hrs 3 mins   >------------------------   05.13 %
+Dart                468 hrs 31 mins >>>>>>>>>>>>>>>>>>>>>----   85.56 %
+Java                28 hrs 3 mins   >------------------------   05.12 %
 Python              23 hrs 8 mins   >------------------------   04.23 %
 JSON                7 hrs 56 mins   -------------------------   01.45 %
 JavaScript          5 hrs 45 mins   -------------------------   01.05 %
